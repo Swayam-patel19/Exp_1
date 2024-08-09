@@ -44,9 +44,11 @@ int main() {
 ```
 
 
-Outputs: 
+Output A: 
 
 <img width="569" alt="Screenshot 2024-08-09 at 11 53 42" src="https://github.com/user-attachments/assets/4225f0af-93da-43e7-b751-a3ea7c981fe4">
+
+Output B:
 
 <img width="547" alt="Screenshot 2024-08-09 at 11 53 56" src="https://github.com/user-attachments/assets/caa2ea5a-46ea-4f4b-bae6-8db94c900e42">
 
